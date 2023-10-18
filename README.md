@@ -9,3 +9,5 @@ Nous avons choisi de réaliser un jeu dans lequel il faut récupérer des peluch
 ![image](https://github.com/LeaSerrano/CodeGameJam-2020/assets/113998552/4f511b3c-3978-43a6-b2bd-3b1eb605d16c)
 
 Voici le lien de la vidéo du jeu : https://youtu.be/BF9IffbMGjg
+
+Lien du dépôt git original : https://github.com/thi-christine-nguyen/CodeGameJam2020
